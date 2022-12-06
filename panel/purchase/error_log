@@ -1,0 +1,12 @@
+[27-Jan-2017 04:38:27 Europe/Amsterdam] PHP Notice:  Undefined index: tos in /home/wizstres2/public_html/panel/inc/init.php on line 18
+[27-Jan-2017 04:38:27 Europe/Amsterdam] PHP Notice:  Undefined index: url in /home/wizstres2/public_html/panel/inc/init.php on line 19
+[27-Jan-2017 04:45:11 Europe/Amsterdam] PHP Notice:  Undefined index: tos in /home/wizstres2/public_html/panel/inc/init.php on line 18
+[27-Jan-2017 04:45:11 Europe/Amsterdam] PHP Notice:  Undefined index: url in /home/wizstres2/public_html/panel/inc/init.php on line 19
+[27-Jan-2017 04:45:11 Europe/Amsterdam] PHP Notice:  Undefined variable: type in /home/wizstres2/public_html/panel/purchase/buy_blacklist.php on line 12
+[27-Jan-2017 04:45:11 Europe/Amsterdam] PHP Notice:  Undefined variable: type in /home/wizstres2/public_html/panel/purchase/buy_blacklist.php on line 18
+[27-Jan-2017 04:45:11 Europe/Amsterdam] PHP Notice:  Undefined variable: bitch in /home/wizstres2/public_html/panel/purchase/buy_blacklist.php on line 30
+[27-Jan-2017 04:45:11 Europe/Amsterdam] PHP Notice:  Undefined variable: money in /home/wizstres2/public_html/panel/purchase/buy_blacklist.php on line 34
+[28-Jan-2017 00:59:11 Europe/Amsterdam] PHP Notice:  Undefined index: tos in /home/wizstres2/public_html/panel/inc/init.php on line 18
+[28-Jan-2017 00:59:11 Europe/Amsterdam] PHP Notice:  Undefined index: url in /home/wizstres2/public_html/panel/inc/init.php on line 19
+[28-Jan-2017 00:59:19 Europe/Amsterdam] PHP Notice:  Undefined index: tos in /home/wizstres2/public_html/panel/inc/init.php on line 18
+[28-Jan-2017 00:59:19 Europe/Amsterdam] PHP Notice:  Undefined index: url in /home/wizstres2/public_html/panel/inc/init.php on line 19

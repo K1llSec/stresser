@@ -1,0 +1,4 @@
+ERROR: SQLSTATE[28000] [1045] Access denied for user 'database!'@'localhost' (using password: YES) - /panel/home.php at Friday 27th of January, 2017, 01:15:20 AM
+ERROR: SQLSTATE[28000] [1045] Access denied for user 'database!'@'localhost' (using password: YES) - /panel/home.php at Friday 27th of January, 2017, 01:15:22 AM
+ERROR: SQLSTATE[28000] [1045] Access denied for user 'database!'@'localhost' (using password: YES) - /panel/login.php at Friday 27th of January, 2017, 01:15:32 AM
+ERROR: SQLSTATE[28000] [1045] Access denied for user 'database!'@'localhost' (using password: YES) - /panel/register.php at Friday 27th of January, 2017, 01:15:38 AM
